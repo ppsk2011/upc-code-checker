@@ -1,5 +1,5 @@
 # Getting Started with UPC checker
-
+#npm install first
 ### `npm start`
 
 Runs the app in the development mode.\
