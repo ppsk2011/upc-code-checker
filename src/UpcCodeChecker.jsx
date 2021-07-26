@@ -27,7 +27,7 @@ const UpcCodeChecker = () => {
                 <div>Odd digits sum multiplied by 3 : {item.multipliedSum}</div>
                 <div>Sum of even digits : {item.evenSum}</div>
                 <div> Even digits + multiplied odd digits: {item.addedSum}</div>
-                <div className='validation'> Calculated checksum Digit : {item.checkDigit}</div>
+                <div className={item.result}> Calculated checksum Digit : {item.checkDigit}</div>
                 </div>
 
             ))}
