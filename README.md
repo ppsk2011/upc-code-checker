@@ -1,4 +1,5 @@
 # Getting Started with UPC checker
+# App is hosted at this url: https://upc-code-checker.herokuapp.com/
 #npm install first
 ### `npm start`
 
