@@ -1,0 +1,15 @@
+
+.validation{
+    margin-top: 20px;
+}
+.Invalid{
+    color: red;
+}
+
+.Valid{
+    color: greenyellow;
+}
+
+button{
+    margin-left: 20px;
+}
